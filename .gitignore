@@ -1,0 +1,26 @@
+﻿# Compiled Lua
+*.luac
+luac.out
+
+# Rocks / deps
+.luarocks/
+lua_modules/
+*.rock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / misc
+*.log
+*.build
+*.ps1
+*.bak
+
+# Node
+dist/
+nui/node_modules/
+nui/dist/
+nui/
+# Source
+*.lua
