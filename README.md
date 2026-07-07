@@ -50,7 +50,8 @@ ensure oxmysql
 ensure ox_inventory
 ensure cf-outfitbag
 
-# 3. Add the outfit bag item from install/item.lua to your ox_inventory data/items.lua and add the picture web/images
+# 3. Add the outfit bag item from install/item.lua to your ox_inventory data/items.lua 
+# Add the picture web/images
 
 
 # 4. Optional: tweak max outfits, bag prop, debug in shared/config.lua
