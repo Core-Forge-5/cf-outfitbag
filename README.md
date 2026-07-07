@@ -76,7 +76,7 @@ ensure cf-outfitbag
 
 | Resource | Link |
 |----------|------|
-| **Core-Forge Docs** | `https://core-forge-5.github.io/cf-docs/site/index.html` |
+| **Core-Forge Docs** | [CF-Docs](https://core-forge-5.github.io/cf-docs/site/index.html) |
 | **Discord Support** | `https://discord.gg/TBb4QKHQtm` |
 | **GitHub Organization** | `https://github.com/Core-Forge-5` |
 | **FiveM Forum** | `https://forum.cfx.re/u/_dice/summary` |
